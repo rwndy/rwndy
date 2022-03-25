@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ITC.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rwndy&show_icons=true)
-![stats](https://profile-summary-for-github.com/user/rwndy)
-Stats by [tipsy/profile-summary-for-github][]
