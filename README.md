@@ -2,9 +2,6 @@
 
 My name is riwandi. But, You can call Me Wandi.
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=rwndy&show_icons=true)
-
 ## My Stats
 <p>
 <a>
